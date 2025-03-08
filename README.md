@@ -14,7 +14,7 @@ function components.
 
 ## Initializing State
 
-In a function component, any time we needed to add state variables to our
+In function component, any time we needed to add state variables to our
 components, we use the `useState` hook, like so:
 
 ```jsx
